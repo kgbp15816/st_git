@@ -1,0 +1,31 @@
+Control de version: local
+git --version
+git init
+branch
+Crea un repositorio en blanco. 
+git status
+git add . 
+git add filename.txt
+git add *filename.txt
+git add .
+git commit -m "Texto descriptivo del cambio" => Hash
+three
+git log
+git reset --hard hashcommit
+git reset --hard HEAD~1
+git restore file.txt (Descartar cambios de archivos en el work directory)
+git restore  --staged file.txt (Descartar cambios de archivos en el stage)
+
+git remote add st_git https://github.com/kgbp15816/st_git.git
+
+git push 
+git push origin 
+git push origin master
+
+git push origin HEAD:master
+
+git clone https://github.com/kgbp15816/st_git.git
+
+
+
+
