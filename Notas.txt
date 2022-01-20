@@ -34,8 +34,11 @@ git remote set-url origin https://ErickaBM@github.com/ErickaBM/St_git.git
 Descargar cambios remotos cuando existe el repositorio local. 
 git log
 
-1) git pull
-2) git fetch
+1) git fetch
+2) git pull
+3) conflicts
+
+
 
 
 
