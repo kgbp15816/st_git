@@ -26,6 +26,17 @@ git push origin HEAD:master
 
 git clone https://github.com/kgbp15816/st_git.git
 
+git remote set-url origin https://user_name@github.com/kgbp15816/st_git.git
+
+git remote set-url origin https://kgbp15816@github.com/kgbp15816/st_git.git
+git remote set-url origin https://ErickaBM@github.com/ErickaBM/St_git.git
+
+Descargar cambios remotos cuando existe el repositorio local. 
+git log
+
+1) git pull
+2) git fetch
+
 
 
 
