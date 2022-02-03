@@ -37,6 +37,9 @@ git log
 1) git pull
 2) git fetch
 
+1) git cherry-pick
+
+
 
 
 
