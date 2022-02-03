@@ -39,6 +39,8 @@ git log
 3) conflicts
 
 
+git cherry-pick <commitId>
+
 
 
 
