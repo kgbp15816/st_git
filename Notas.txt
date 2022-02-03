@@ -40,7 +40,7 @@ git log
 
 
 git cherry-pick <commitId>
-git cherry-pick <commitId2>
+git cherry-pick <commitIdSoporte>
 
 
 
